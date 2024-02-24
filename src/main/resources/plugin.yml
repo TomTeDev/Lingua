@@ -1,0 +1,6 @@
+name: Lingua
+version: '${project.version}'
+main: more.mucho.lingua.Lingua
+prefix: [Lingua]
+authors: [Muchomore]
+description: Translation plugin
